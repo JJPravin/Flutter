@@ -1,2 +1,3 @@
-# Flutter
-Mobile Application for Flutter
+# gas_by_gas
+
+A new Flutter project.
